@@ -28,8 +28,8 @@
 	<distributionManagement>
         <repository>
         <id>nexus</id>
-        <name>MavenRepo</name>
-        <url>http://18.188.178.47:8081/repository/MavenRepo/</url>
+        <name>lakimaven</name>
+        <url>http://18.188.178.47:8081/repository/lakimaven/</url>
         </repository>
         </distributionManagement>
 	</project>
