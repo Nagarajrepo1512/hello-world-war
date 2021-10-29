@@ -29,7 +29,7 @@
         <repository>
         <id>nexus</id>
         <name>MavenRepo</name>
-        <url>http:http://3.138.183.57:8081/repository/MavenRepo/</url>
+        <url>http://18.188.178.47:8081/repository/MavenRepo/</url>
         </repository>
         </distributionManagement>
 	</project>
